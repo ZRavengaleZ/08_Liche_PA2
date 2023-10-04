@@ -1,2 +1,2 @@
-# 08_Liche_PA3
- Practical Assignment 3
+# 08_Liche_PA2
+ Practical Assignment 2
